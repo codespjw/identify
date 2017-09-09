@@ -3,6 +3,9 @@ language: cpp
 os:
   - linux
 
+before_install:
+  - sudo apt-get install libarmadillo-dev
+
 script:
   - make
   - ./test

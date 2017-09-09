@@ -2,6 +2,7 @@ identify
 ========
 
 C++ library for identification prodedures
+[![Build Status](https://travis-ci.org/martinamaggio/identify.png)](https://travis-ci.org/martinamaggio/identify)
 
 
 Requirements
