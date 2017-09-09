@@ -1,0 +1,10 @@
+language: cpp
+
+os:
+  - linux
+
+script:
+  - make
+  - ./test
+  - make clean
+  
